@@ -1,1 +1,2 @@
-Esse eh um exemplo de arquivo para utilizar durante a aula
+Esse eh um exemplo de arquivo para utilizar durante a aula.
+Agora esse arquivo foi editado.
